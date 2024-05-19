@@ -1,18 +1,30 @@
 ---
 marp: true
-title: Your Presentation Title
-description: A brief description
-theme: default
+title: AI for Boosting Productivity
+theme: gaia
 paginate: true
-_class: lead
+size: 4:3
+_class: invert
 ---
 
-# Slide 1
+<!-- _class: invert lead -->
 
-Your content here.
+# AI for Boosting Productivity
+
+- AI Landscape
+- Tools
+- Automation
+- Creation
+- Trends
 
 ---
 
 # Slide 2
+
+More content here.
+
+---
+
+# Slide 3
 
 More content here.
